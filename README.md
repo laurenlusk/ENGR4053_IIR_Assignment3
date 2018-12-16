@@ -18,7 +18,7 @@ The experiment set-up was simple.
 Two electrodes were connected to the right bicep of Lauren Lusk, and a third, grounding, electrode was attached to her elbow.
 The EMG signal was fed through a sigma board, then an amplifier, and finally the computer.
 
-![[alt text](https://github.com/laurenlusk/ENGR4053_IIR_Assignment3/blob/master/22LNnVj9TBeNIjCpVsMOdw.jpg)
+![alt text](https://github.com/laurenlusk/ENGR4053_IIR_Assignment3/blob/master/22LNnVj9TBeNIjCpVsMOdw.jpg)
 
 We used a backpack weighing approximately 10kg as the object that we pushed and pulled across the bench.
 In order to simplify the results, we moved the backpack 30cm back and forth across the bench. 
